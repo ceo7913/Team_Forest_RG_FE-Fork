@@ -1,5 +1,5 @@
  
-![readme_로고_small](https://user-images.githubusercontent.com/52021566/184604395-077b0cc2-c866-468f-bdbc-d7aeb8ebd772.png) 
+![readme_로고_small](https://user-images.githubusercontent.com/52021566/184604395-077b0cc2-c866-468f-bdbc-d7aeb8ebd772.png)
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
